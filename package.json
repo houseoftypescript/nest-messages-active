@@ -1,7 +1,7 @@
 {
   "name": "nest-active-template",
   "version": "0.0.1",
-  "description": "Nest.js - API - Template",
+  "description": "Nest.js - ActiveMQ - Template",
   "main": "dist/main",
   "repository": "git@github.com:hieudoanm/nest-active-template.git",
   "author": "hieudoanm <hieumdoan@gmail.com>",
