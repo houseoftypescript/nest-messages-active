@@ -5,7 +5,7 @@
       "description": "",
       "item": [
         {
-          "id": "ab9e47bd-f769-4754-bf0b-b466520646f9",
+          "id": "d6677c76-f370-4bb0-bb59-2cc77bc5f512",
           "name": "Health Controller get Health",
           "request": {
             "name": "Health Controller get Health",
@@ -22,7 +22,7 @@
           },
           "response": [
             {
-              "id": "189361ca-1c6d-4310-b77d-7785b0ed5963",
+              "id": "fdf95d0e-fff6-4370-bf7a-e8afc30282f2",
               "originalRequest": {
                 "url": {
                   "path": ["health"],
@@ -49,7 +49,7 @@
   "event": [],
   "variable": [{ "key": "baseUrl", "value": "/" }],
   "info": {
-    "_postman_id": "b8b99a42-9445-4ec6-acfc-c8f1ce62b510",
+    "_postman_id": "d0b1733b-fedf-4ff3-8134-05e83acecedd",
     "name": "Nest.js - ActiveMQ - Template",
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
     "description": {
